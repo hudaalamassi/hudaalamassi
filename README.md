@@ -1,6 +1,7 @@
 # Hello, I'm Huda! 👋
 
 Welcome to my GitHub profile.
+
 I'm a Palestinian from Gaza.
 I'm a health professional.
 Interested about exploring innovative technological solutions to address health challenges.
@@ -31,6 +32,11 @@ Sep 2022 - Sep 2023 | *1 yr 1 mo*
 
 ## 📜 Licenses & Certifications
 
+### 🏆 **Foundations of Git**  
+
+**DataCamp**  
+Issued Dec 2024  
+
 ### 🏆 **Intermediate Python**  
 
 **DataCamp**  
@@ -57,11 +63,15 @@ Issued Jul 2024
   
 ## 🌱 Currently Learning
 
-- **Pandas** and **Matplotlib** for data analysis and visualization.
+- **predictive stepping** and **documentation** for Python.
 
 ## 📬 How to Reach Me
 
 - [LinkedIn](https://www.linkedin.com/in/huda-alamassi/)
+
+## 💻 GitHub Stats
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hudaalamassi&theme=radical&show_icons=true)
 
 _____
 
