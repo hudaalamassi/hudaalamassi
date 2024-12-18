@@ -63,7 +63,7 @@ Issued Jul 2024
   
 ## 🌱 Currently Learning
 
-- **predictive stepping** and **documentation** for Python.
+- **Predictive stepping** and **Documentation** for Python.
 
 ## 📬 How to Reach Me
 
