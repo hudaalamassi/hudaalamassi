@@ -1,7 +1,8 @@
 # Hello, I'm Huda! 👋
 
 I'm a Palestinian from Gaza and a health professional.  
-I'm passionate about exploring innovative technological solutions to address health challenges.
+I'm passionate about exploring innovative technological solutions to address
+ health challenges.
 
 ## 📬 How to Reach Me
 
@@ -16,4 +17,3 @@ I'm passionate about exploring innovative technological solutions to address hea
 ---
 
 ![What really matters!](https://github.com/hudaalamassi/hudaalamassi/blob/main/what-matters-is-not-to-know-the-world-but-to-change-it-quote-1%20(1).jpg)
-
