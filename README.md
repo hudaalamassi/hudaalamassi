@@ -1,11 +1,7 @@
 # Hello, I'm Huda! 👋
-
 I'm a Palestinian from Gaza.
 I'm a health professional.
 Interested about exploring innovative technological solutions to address health challenges.
-
-
-
 ## 📬 How to Reach Me
 
 - [LinkedIn](https://www.linkedin.com/in/huda-alamassi/)
