@@ -1,10 +1,9 @@
-# Hello, I'm Huda! 👋
+# Hello, I'm Huda! 
 
-I'm a Palestinian from Gaza and a health professional.  
-I'm passionate about exploring innovative technological solutions to address
- health challenges.
+I'm a Palestinian refugee from Gaza.  
+Trying to figure out life..
 
-## 📬 How to Reach Me
+##  How to Reach Me
 
 - [LinkedIn](https://www.linkedin.com/in/huda-alamassi/)
 
