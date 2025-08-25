@@ -2,9 +2,13 @@
 
 I'm a Palestinian refugee from Gaza, trying to figure out life..
 
+---
+
 ### How to Reach Me
 
 - [LinkedIn](https://www.linkedin.com/in/huda-alamassi/)
+
+---
 
 ### GitHub Stats
 
