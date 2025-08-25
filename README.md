@@ -1,9 +1,3 @@
-### About Me
-
-I'm a Palestinian refugee from Gaza, trying to figure out life..
-
----
-
 ### GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=hudaalamassi&theme=radical&show_icons=true)
