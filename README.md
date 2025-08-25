@@ -1,12 +1,12 @@
-# Hello, I'm Huda! 
+### About Me
 
 I'm a Palestinian refugee from Gaza, trying to figure out life..
 
-## How to Reach Me
+### How to Reach Me
 
 - [LinkedIn](https://www.linkedin.com/in/huda-alamassi/)
 
-## GitHub Stats
+### GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=hudaalamassi&theme=radical&show_icons=true)
 
