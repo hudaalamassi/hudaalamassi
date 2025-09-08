@@ -1,5 +1,3 @@
-A Gazan Palestinian woman refugee, interested in health, history, politics, and women’s lives.
-Recently, I have begun engaging with data science to explore these topics.
 ### GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=hudaalamassi&theme=radical&show_icons=true)
 
